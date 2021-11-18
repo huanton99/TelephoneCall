@@ -6,7 +6,18 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.Ui{
+  width: 320px;
+  height: 200px;
+  background-color: aliceblue;
+  border-radius: 0.5em;
+}
+.icon{
+  text-align: right;
+}
+.BtnReset{
+ border: 0;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
